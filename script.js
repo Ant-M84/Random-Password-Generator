@@ -13,7 +13,7 @@ function userInput() {
   randomPassword = []
   passwordLength = parseInt(prompt("Please enter a numerical value of desired password length between 8 and 128 characters."));
    if (!passwordLength) {
-    alert("Cancelled!")
+    alert("Canceled! Please try again by carefully following the instructions!")
     return;
    } else
     if (isNaN(passwordLength) || passwordLength < 8 || passwordLength > 128) {
