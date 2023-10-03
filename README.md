@@ -18,6 +18,12 @@ This application was created via source code (index.html, style.css and script.j
 
 Assistance with developing code and debugging was obtained from:
 
+Mozilla Developer. (2023, July 30). isNan().
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN
+
+Mozilla Developer. (2023, September 25). parseInt().
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
+
 Vega, D. (2020) Random Password Generator in JavaScript.
 https://www.youtube.com/watch?v=v2jfGo7ztm8&ab_channel=DanielVega
 
